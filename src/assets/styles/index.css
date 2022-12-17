@@ -1,0 +1,20 @@
+body {
+  background-color: #246a73;
+}
+.todo_item {
+  width: 100%;
+  max-width: 550px;
+}
+.app_title {
+  margin-bottom: 20px;
+  font-size: 42px;
+  color: white;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+.todo_item {
+  border-radius: 6px;
+}
+.todo_inputs {
+  margin-bottom: 20px;
+}
